@@ -1,0 +1,5 @@
+*.pyc
+*.db
+tracker/_pycache_
+env
+.idea
